@@ -3,4 +3,4 @@ project(guia1_ej7 C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(guia1_ej7 main.c)
+add_executable(guia1_ej7 main.c Cuenta.c Cuenta.h)
